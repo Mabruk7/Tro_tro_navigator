@@ -34,7 +34,7 @@ A modern React-based application for navigating Ghana's public transport system,
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Mabruk7/Tro_tro_navigator.git
    cd tro-tro-navigator
    ```
 
